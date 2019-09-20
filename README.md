@@ -4,7 +4,7 @@ There are a many ways to remove carbon dioxide from the atmosphere but the [chea
 
 The challenge is estimating, within a reasonable degree of certainty like +/- 10%, how much carbon was removed by any particular farmer’s change in land-use practices. Without that, farmers cannot be compensated for removing carbon and buyers cannot purchase carbon removals. 
 
-The goal is to develop a model that can take in data (such as the USDA’s open source and API-accessible statistics) and use that to produce an estimate that is somewhat reliably accurate. Doing so would let farmers estimate their potential payout for changing their practices, enabling them to forecast whether or not their effort would be worth it. 
+The goal is to develop a model that can take in data (such as the USDA’s open source and API-accessible statistics) and use that, along with farmer-provided responses about their practices, to produce an estimate that is somewhat reliably accurate. Doing so would let farmers estimate their potential payout for changing their practices, enabling them to forecast whether or not their effort would be worth it, and form the foundation for putting a price on their carbon removal. 
 
 ### Raw farm data
 - USDA QuickStats: https://quickstats.nass.usda.gov/
